@@ -1,4 +1,4 @@
-# Simulating Grover's Search Algorithm in Comparison to Classical Linear Search
+# Grover's Algorithm: Theory and Applications
 
 Author: Alexander Bousman
 
